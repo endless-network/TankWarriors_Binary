@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <id>com.endlessnetwork.tankwarriors</id>
+  <name>Tank Warrior</name>
+  <project_license>LicenseRef-proprietary</project_license>
+  <developer_name>Endless Network</developer_name>
+  <summary>Driving, shooting, explosions, and programming - all in one game</summary>
+  <metadata_license>CC0-1.0.5</metadata_license>
+  <url type="homepage">www.thethirdterminal.com</url>
+  <description>
+    <p>Take charge of your own personal tank to battle your way through multilevel arenas, defeating the enemy, and completing objectives. Upgrade your tanks to be faster, tougher, and more powerful than your opponents!. Hack your tank's AI to outsmart the enemy's tank to become reigning champion! Build your tank fleet, with real code... can you outsmart your own AI?</p>
+  </description>
+  <screenshots>
+    <screenshot>
+      <image type="source">https://github.com/endless-network/TankWarriors_Binary/raw/master/TW_Create%20Tank%20Scene.png</image>
+    </screenshot>
+    <screenshot>
+      <image type="source">https://github.com/endless-network/TankWarriors_Binary/raw/master/TW_Battle%20Scene.png</image>
+    </screenshot>
+    <screenshot>
+      <image type="source">https://github.com/endless-network/TankWarriors_Binary/raw/master/TW_Coding%20Scene.png</image>
+    </screenshot>
+    <screenshot>
+      <image type="source">https://github.com/endless-network/TankWarriors_Binary/raw/master/TW_splash_v04.jpg</image>
+    </screenshot>
+  </screenshots>
+  <content_rating type="oars-1.1">
+    <content_attribute id="violence-cartoon">moderate</content_attribute>
+    <content_attribute id="violence-fantasy">moderate</content_attribute>
+  </content_rating>
+  <update_contact>nan_at_endlessnetwork.com</update_contact>
+</component>
+

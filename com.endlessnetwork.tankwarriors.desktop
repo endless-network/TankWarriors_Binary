@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Tank Warriors
+Comment=Driving, shooting, explosions, and programming - all in one game
+Exec=com.endlessnetwork.tankWarriors.sh
+Icon=com.endlessnetwork.tankwarriors
+Terminal=false
+Type=Application
+Categories=Game;X-LearnToCode;
