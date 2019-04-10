@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <component type="desktop">
   <id>com.endlessnetwork.tankwarriors</id>
-  <name>Tank Warrior</name>
+  <name>Tank Warriors</name>
   <project_license>LicenseRef-proprietary</project_license>
-  <developer_name>Endless Network</developer_name>
+  <developer_name>Endless Studios</developer_name>
   <summary>Driving, shooting, explosions, and programming - all in one game</summary>
   <metadata_license>CC0-1.0.5</metadata_license>
   <launchable type="desktop-id">com.endlessnetwork.tankwarriors.desktop</launchable>
@@ -17,16 +17,16 @@
   </description>
   <screenshots>
     <screenshot>
-      <image type="source">https://github.com/endless-network/TankWarriors_Binary/raw/master/TW_Create%20Tank%20Scene.png</image>
+      <image type="source">https://github.com/endless-network/TankWarriors_Binary/raw/master/TW4.jpg</image>
     </screenshot>
     <screenshot>
-      <image type="source">https://github.com/endless-network/TankWarriors_Binary/raw/master/TW_Battle%20Scene.png</image>
+      <image type="source">https://github.com/endless-network/TankWarriors_Binary/raw/master/TW3.jpg</image>
     </screenshot>
     <screenshot>
-      <image type="source">https://github.com/endless-network/TankWarriors_Binary/raw/master/TW_Coding%20Scene.png</image>
+      <image type="source">https://github.com/endless-network/TankWarriors_Binary/raw/master/TW2.jpg</image>
     </screenshot>
     <screenshot>
-      <image type="source">https://github.com/endless-network/TankWarriors_Binary/raw/master/TW_splash_v04.jpg</image>
+      <image type="source">https://github.com/endless-network/TankWarriors_Binary/raw/master/TW1.jpg</image>
     </screenshot>
   </screenshots>
   <content_rating type="oars-1.1">
