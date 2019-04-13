@@ -11,6 +11,9 @@
     <category>LearnToCode</category>
     <category>Game</category>
   </categories>
+  <releases>
+		<release version="1.1" date="2019-03-13"/>
+  </releases>
   <url type="homepage">http://thethirdterminal.com</url>
   <description>
     <p>Take charge of your own personal tank to battle your way through multilevel arenas, defeating the enemy, and completing objectives. Upgrade your tanks to be faster, tougher, and more powerful than your opponents!. Hack your tank's AI to outsmart the enemy's tank to become reigning champion! Build your tank fleet, with real code... can you outsmart your own AI?</p>
