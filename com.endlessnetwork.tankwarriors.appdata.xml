@@ -3,8 +3,11 @@
   <id>com.endlessnetwork.tankwarriors</id>
   <name>Tank Warriors</name>
   <project_license>LicenseRef-proprietary</project_license>
-  <developer_name>Endless Studios</developer_name>
-  <summary>Driving, shooting, explosions, and programming - all in one game</summary>
+  <developer id="endlessnetwork.com">
+    <name translatable="no">Endless Studios</name>
+  </developer>
+  <developer_name translatable="no">Endless Studios</developer_name>
+  <summary>Program an AI to beat the enemy</summary>
   <metadata_license>CC0-1.0</metadata_license>
   <launchable type="desktop-id">com.endlessnetwork.tankwarriors.desktop</launchable>
   <categories>
@@ -13,24 +16,30 @@
     <category>Education</category>
   </categories>
   <releases>
-		<release version="1.3" date="2019-05-01"/>
+    <release version="1.3" date="2019-05-01"/>
   </releases>
-  <url type="homepage">http://thethirdterminal.com</url>
+  <url type="homepage">https://terminaltwo.com/ourgames/tank-warriors</url>
   <description>
-    <p>Take charge of your own personal tank to battle your way through multilevel arenas, defeating the enemy, and completing objectives. Upgrade your tanks to be faster, tougher, and more powerful than your opponents!. Hack your tank's AI to outsmart the enemy's tank to become reigning champion! Build your tank fleet, with real code... can you outsmart your own AI?</p>
+    <p>Driving, shooting, explosions, and programming—all in one game! Take charge of your own personal tank to battle your way through multilevel arenas, defeating the enemy and completing objectives. Upgrade your tanks to be faster, tougher, and more powerful than your opponents. Hack your tank’s AI to outsmart the enemy’s tank to become reigning champion! Build your tank fleet, with real code… can you outsmart your own AI?</p>
+    <p>Level up your coding skills by learning and practicing functions, parameters, syntax, and more.</p>
+    <p>Players must use commands and keywords to create AI programs for their tanks. Each command/keyword has different requirements and will need either a conditional, a parameter, or nothing. The keywords expect players to guess their purpose and experiment; for example, turnTank is a function that requires a parameter, so it must need a turn angle to be given as a parameter. During battles, players can edit their tank’s code and view enemy’s AI, and the tank’s current line of code shows on the bottom of the screen to keep track. Your tank starts with a green ring of health that becomes lower and redder as the tank gets hit by bullets; in player-controlled mode, be sure to collect heart balloons to heal when your ring is low and red. In AI mode, be sure to program your tank with commands that move it out of enemy range.</p>
   </description>
   <screenshots>
     <screenshot>
       <image type="source">https://github.com/endless-network/TankWarriors_Binary/raw/master/TW4.png</image>
+      <caption>Customize your tank’s colors, name, and stickers</caption>
     </screenshot>
     <screenshot>
       <image type="source">https://github.com/endless-network/TankWarriors_Binary/raw/master/TW3.png</image>
+      <caption>Write real code to control your tank’s AI</caption>
     </screenshot>
     <screenshot>
       <image type="source">https://github.com/endless-network/TankWarriors_Binary/raw/master/TW2.png</image>
+      <caption>Two tanks battling in the desert</caption>
     </screenshot>
     <screenshot>
       <image type="source">https://github.com/endless-network/TankWarriors_Binary/raw/master/TW1.jpg</image>
+      <caption>Tank Warriors opening screen</caption>
     </screenshot>
   </screenshots>
   <content_rating type="oars-1.1">
@@ -39,4 +48,3 @@
   </content_rating>
   <update_contact>nan_at_endlessnetwork.com</update_contact>
 </component>
-
