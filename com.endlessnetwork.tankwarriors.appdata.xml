@@ -28,7 +28,7 @@
       <image type="source">https://github.com/endless-network/TankWarriors_Binary/raw/master/TW4.png</image>
       <caption>Customize your tank’s colors, name, and stickers</caption>
     </screenshot>
-    <screenshot>
+    <screenshot type="default">
       <image type="source">https://github.com/endless-network/TankWarriors_Binary/raw/master/TW3.png</image>
       <caption>Write real code to control your tank’s AI</caption>
     </screenshot>
