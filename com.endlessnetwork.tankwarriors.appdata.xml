@@ -2,7 +2,7 @@
 <component type="desktop">
   <id>com.endlessnetwork.tankwarriors</id>
   <name>Tank Warriors</name>
-  <project_license>LicenseRef-proprietary</project_license>
+  <project_license>LicenseRef-proprietary=https://github.com/endless-network/TankWarriors_Binary/raw/refs/heads/master/LICENSE</project_license>
   <developer id="endlessnetwork.com">
     <name translatable="no">Endless Studios</name>
   </developer>
